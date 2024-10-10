@@ -2,6 +2,8 @@
 " Original Maintainer:  Lars H. Nielsen (dengmao@gmail.com)
 " Last Change:  2010-07-23
 "
+" Modified by 7twdi29ot5y8og6ndze7m7wexn29cm24
+"   (trinkner@crystal.hair)
 " Modified version of wombat for 256-color terminals by
 "   David Liang (bmdavll@gmail.com)
 " based on version by
